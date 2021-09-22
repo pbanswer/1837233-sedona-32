@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Иван Быканов](https://up.htmlacademy.ru/htmlcss/32/user/1837233).
-* Наставник: `Дмитрий Гуляев`.
+* Наставник: [Дмитрий Гуляев](https://up.htmlacademy.ru/profession/frontender/12/htmlcss/user/87930).
 
 ---
 
